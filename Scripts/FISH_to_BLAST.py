@@ -17,13 +17,16 @@ query_indexed_db  = SeqIO.index(in_file,'fasta')
 print('Number of query sequences:' + str(len(query_indexed_db)))
 
 file_name = '{0}_vs_{1}'.format(in_file,DB_file)
-#with open(file_name, 'w') as file:
-    #print('File opening')
-#cmd = r'C:\Users\ikirov.CLO\Desktop\blast-2.2.31+\bin\makeblastdb.exe -in %s -dbtype nucl' % DB_file
-#os.system(cmd)
-#proga = r'C:\Users\ikirov.CLO\Desktop\blast-2.2.31+\bin\blastn.exe'
-#blast = NcbiblastnCommandline(proga, query=in_file, db=DB_file, out=file_name, outfmt=5, word_size = 12, evalue = 0.001)#strand = 'plus'
-#stdout, stderr = blast()
+
+with open(file_name, 'w') as file:
+    print('File opening')
+
+# local version of BLAST
+cmd = r'C:\Users\ikirov.CLO\Desktop\blast-2.2.31+\bin\makeblastdb.exe -in %s -dbtype nucl' % DB_file
+os.system(cmd)
+proga = r'C:\Users\ikirov.CLO\Desktop\blast-2.2.31+\bin\blastn.exe'
+blast = NcbiblastnCommandline(proga, query=in_file, db=DB_file, out=file_name, outfmt=5, word_size = 12, evalue = 0.001)#strand = 'plus'
+stdout, stderr = blast()
 
 count=0
 
