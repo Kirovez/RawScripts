@@ -1,0 +1,34 @@
+<application>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Users\ikirov.CLO\AppData\Local\Continuum\Anaconda3\python.exe" value="true" />
+        <entry key="C:\Users\ikirov.CLO\AppData\Local\Continuum\Miniconda3\python.exe" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Users\ikirov.CLO\AppData\Local\Continuum\Anaconda3\python.exe" value="true" />
+        <entry key="C:\Users\ikirov.CLO\AppData\Local\Continuum\Miniconda3\python.exe" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="C:\Users\ikirov.CLO\AppData\Local\Continuum\Anaconda3\python.exe" value="false" />
+        <entry key="C:\Users\ikirov.CLO\AppData\Local\Continuum\Miniconda3\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+</application>

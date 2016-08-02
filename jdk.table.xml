@@ -1,0 +1,85 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.4.1 (C:\Python34\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.1" />
+      <homePath value="C:\Python34\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Python34/DLLs" />
+            <root type="simple" url="file://C:/Python34/Lib" />
+            <root type="simple" url="file://C:/Python34" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Roaming/Python/Python34/site-packages" />
+            <root type="simple" url="file://C:/Python34/Lib/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharmEdu10/system/python_stubs/-1442825926" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 (C:\Users\ikirov.CLO\AppData\Local\Continuum\Miniconda3\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.4" />
+      <homePath value="C:\Users\ikirov.CLO\AppData\Local\Continuum\Miniconda3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Continuum/Miniconda3/Lib/site-packages/scrapy-1.0.3-py3.4.egg" />
+            <root type="simple" url="jar://$USER_HOME$/AppData/Local/Continuum/Miniconda3/Lib/site-packages/service_identity-14.0.0-py3.4.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/AppData/Local/Continuum/Miniconda3/Lib/site-packages/cssselect-0.9.1-py3.4.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/AppData/Local/Continuum/Miniconda3/Lib/site-packages/pyopenssl-0.15.1-py3.4.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Continuum/Miniconda3/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Continuum/Miniconda3/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Continuum/Miniconda3" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Roaming/Python/Python34/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Continuum/Miniconda3/Lib/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/AppData/Local/Continuum/Miniconda3/Lib/site-packages/setuptools-20.7.0-py3.4.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/-1413079779" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 (C:\Users\ikirov.CLO\AppData\Local\Continuum\Anaconda3\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.4" />
+      <homePath value="C:\Users\ikirov.CLO\AppData\Local\Continuum\Anaconda3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/AppData/Local/Continuum/Anaconda3/Lib/site-packages/matplotlib_venn-0.11.2-py3.4.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Continuum/Anaconda3/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Continuum/Anaconda3/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Continuum/Anaconda3" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Roaming/Python/Python34/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Continuum/Anaconda3/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Continuum/Anaconda3/Lib/site-packages/Sphinx-1.3.1-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Continuum/Anaconda3/Lib/site-packages/cryptography-0.9.1-py3.4-win-amd64.egg" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Continuum/Anaconda3/Lib/site-packages/win32" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Continuum/Anaconda3/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Continuum/Anaconda3/Lib/site-packages/pythonwin" />
+            <root type="simple" url="jar://$USER_HOME$/AppData/Local/Continuum/Anaconda3/Lib/site-packages/setuptools-20.7.0-py3.4.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/1852810670" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

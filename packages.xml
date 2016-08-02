@@ -1,0 +1,11 @@
+<application>
+  <component name="PyPackageService">
+    <option name="sdkToUsersite">
+      <map>
+        <entry key="C:\Python34\python.exe" value="false" />
+        <entry key="C:\Users\ikirov.CLO\AppData\Local\Continuum\Miniconda3\python.exe" value="true" />
+      </map>
+    </option>
+    <option name="LAST_TIME_CHECKED" value="1469514368908" />
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<application>
+  <component name="UISettings">
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
+    <option name="SHOW_STATUS_BAR" value="false" />
+    <option name="EDITOR_TAB_PLACEMENT" value="3" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="36" />
+  </component>
+</application>
