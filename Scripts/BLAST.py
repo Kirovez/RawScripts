@@ -1,4 +1,4 @@
-# blabla
+
 from Bio import SeqIO
 import os
 from Bio.Blast.Applications import NcbiblastnCommandline
@@ -16,9 +16,8 @@ query_indexed_db  = SeqIO.index(in_file,'fasta')
 print('Number of query sequences:' + str(len(query_indexed_db)))
 
 file_name = '{0}_vs_{1}'.format(in_file,DB_file)
-with open(file_name, 'w') as file:
-    print('File opening')
-
+#with open(file_name, 'w') as file:
+    #print('File opening')
 # local version of BLAST
 cmd = r'C:\Users\ikirov.CLO\Desktop\blast-2.2.31+\bin\makeblastdb.exe -in %s -dbtype nucl' % DB_file
 os.system(cmd)
