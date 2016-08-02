@@ -1,3 +1,5 @@
+# BLAST with evaluation of coverage
+
 from Bio import SeqIO
 import os
 from Bio.Blast.Applications import NcbiblastnCommandline
