@@ -20,7 +20,6 @@ file_name = '{0}_vs_{1}'.format(in_file,DB_file)
 
 with open(file_name, 'w') as file:
     print('File opening')
-
 # local version of BLAST
 cmd = r'C:\Users\ikirov.CLO\Desktop\blast-2.2.31+\bin\makeblastdb.exe -in %s -dbtype nucl' % DB_file
 os.system(cmd)
