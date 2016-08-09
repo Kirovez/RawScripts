@@ -1,3 +1,6 @@
+# the script to perform BLAST locally and select the hits by coverage
+# Evalue and Identity
+
 from Bio import SeqIO
 import os
 from Bio.Blast.Applications import NcbiblastnCommandline
