@@ -33,7 +33,7 @@
         <entry key="backports_abc" value="0.4" />
         <entry key="basemap" value="1.0.7" />
         <entry key="bcolz" value="1.0.0" />
-        <entry key="bcrypt" value="3.1.0" />
+        <entry key="bcrypt" value="3.1.1" />
         <entry key="beautiful-soup" value="4.3.2" />
         <entry key="beautifulsoup4" value="4.5.1" />
         <entry key="binstar" value="0.12" />
@@ -121,7 +121,7 @@
         <entry key="decorator" value="4.0.10" />
         <entry key="dill" value="0.2.5" />
         <entry key="distribute" value="0.6.45" />
-        <entry key="distributed" value="1.12.2" />
+        <entry key="distributed" value="1.13.2" />
         <entry key="django" value="1.10.1" />
         <entry key="dnspython" value="1.14.0" />
         <entry key="docopt" value="0.6.2" />
@@ -191,6 +191,7 @@
         <entry key="imagesize" value="0.7.1" />
         <entry key="imaging" value="1.1.7" />
         <entry key="impyla" value="0.13.8" />
+        <entry key="inflection" value="0.3.1" />
         <entry key="into" value="0.2.2" />
         <entry key="iopro" value="1.9.0" />
         <entry key="ipaddress" value="1.0.16" />
@@ -276,6 +277,7 @@
         <entry key="mklfft" value="2.1" />
         <entry key="mock" value="2.0.0" />
         <entry key="mongo-driver" value="0.7.1" />
+        <entry key="more-itertools" value="2.2" />
         <entry key="mpi4py" value="2.0.0" />
         <entry key="mpld3" value="0.2" />
         <entry key="mpmath" value="0.19" />
@@ -417,8 +419,8 @@
         <entry key="qt" value="5.6.0" />
         <entry key="qtawesome" value="0.3.3" />
         <entry key="qtconsole" value="4.2.1" />
-        <entry key="qtpy" value="1.0.2" />
-        <entry key="quandl" value="2.8.9" />
+        <entry key="qtpy" value="1.1.2" />
+        <entry key="quandl" value="3.0.1" />
         <entry key="queuelib" value="1.4.2" />
         <entry key="rasterio" value="0.25.0" />
         <entry key="reportlab" value="3.3.0" />
@@ -437,7 +439,7 @@
         <entry key="scikit-learn" value="0.17.1" />
         <entry key="scikit-rf" value="0.14.1" />
         <entry key="scikits-image" value="0.7.1" />
-        <entry key="scipy" value="0.18.0" />
+        <entry key="scipy" value="0.18.1" />
         <entry key="scons" value="2.3.0" />
         <entry key="scrapy" value="1.1.1" />
         <entry key="seaborn" value="0.7.1" />
@@ -451,12 +453,12 @@
         <entry key="singledispatch" value="3.4.0.3" />
         <entry key="sip" value="4.18" />
         <entry key="six" value="1.10.0" />
-        <entry key="smart_open" value="1.3.3" />
+        <entry key="smart_open" value="1.3.4" />
         <entry key="snakeviz" value="0.4.1" />
         <entry key="snowballstemmer" value="1.2.1" />
         <entry key="snuggs" value="1.4.0" />
         <entry key="sockjs-tornado" value="1.0.3" />
-        <entry key="sphinx" value="1.4.1" />
+        <entry key="sphinx" value="1.4.6" />
         <entry key="sphinx_rtd_theme" value="0.1.9" />
         <entry key="spyder" value="2.3.9" />
         <entry key="spyder-app" value="2.3.8" />
@@ -526,7 +528,7 @@
         <entry key="xlrd" value="1.0.0" />
         <entry key="xlsxwriter" value="0.9.3" />
         <entry key="xlutils" value="2.0.0" />
-        <entry key="xlwings" value="0.9.3" />
+        <entry key="xlwings" value="0.10.0" />
         <entry key="xlwt" value="1.1.2" />
         <entry key="xray" value="0.7.0" />
         <entry key="yaml" value="0.1.6" />
@@ -914,6 +916,7 @@
             <list>
               <option value="2.0.0" />
               <option value="3.1.0" />
+              <option value="3.1.1" />
             </list>
           </value>
         </entry>
@@ -2064,6 +2067,7 @@
               <option value="1.12.0" />
               <option value="1.12.1" />
               <option value="1.12.2" />
+              <option value="1.13.2" />
             </list>
           </value>
         </entry>
@@ -2698,6 +2702,13 @@
           <value>
             <list>
               <option value="0.13.8" />
+            </list>
+          </value>
+        </entry>
+        <entry key="inflection">
+          <value>
+            <list>
+              <option value="0.3.1" />
             </list>
           </value>
         </entry>
@@ -3594,6 +3605,13 @@
           <value>
             <list>
               <option value="0.7.1" />
+            </list>
+          </value>
+        </entry>
+        <entry key="more-itertools">
+          <value>
+            <list>
+              <option value="2.2" />
             </list>
           </value>
         </entry>
@@ -5110,6 +5128,7 @@
               <option value="1.0.1" />
               <option value="1.0" />
               <option value="1.0.2" />
+              <option value="1.1.2" />
             </list>
           </value>
         </entry>
@@ -5121,6 +5140,7 @@
               <option value="2.8.8" />
               <option value="2.8.7" />
               <option value="2.8.5" />
+              <option value="3.0.1" />
             </list>
           </value>
         </entry>
@@ -5331,6 +5351,7 @@
               <option value="0.14.0" />
               <option value="0.13.0" />
               <option value="0.18.0" />
+              <option value="0.18.1" />
             </list>
           </value>
         </entry>
@@ -5505,6 +5526,7 @@
             <list>
               <option value="1.3.2" />
               <option value="1.3.3" />
+              <option value="1.3.4" />
             </list>
           </value>
         </entry>
@@ -5552,6 +5574,7 @@
               <option value="1.2.3" />
               <option value="1.4.1" />
               <option value="1.2.1" />
+              <option value="1.4.6" />
             </list>
           </value>
         </entry>
@@ -6281,6 +6304,7 @@
               <option value="0.9.0" />
               <option value="0.9.2" />
               <option value="0.9.3" />
+              <option value="0.10.0" />
             </list>
           </value>
         </entry>
@@ -6392,6 +6416,6 @@
         <option value="https://repo.continuum.io/pkgs/pro/win-64/" />
       </set>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1474230199177" />
+    <option name="LAST_TIME_CHECKED" value="1474548406102" />
   </component>
 </application>
