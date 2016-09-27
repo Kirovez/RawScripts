@@ -83,7 +83,7 @@
         <entry key="colander" value="1.2" />
         <entry key="colorama" value="0.3.7" />
         <entry key="comtypes" value="1.1.2" />
-        <entry key="conda" value="4.2.7" />
+        <entry key="conda" value="4.2.8" />
         <entry key="conda-api" value="1.1.0" />
         <entry key="conda-build" value="2.0.1" />
         <entry key="conda-env" value="2.6.0" />
@@ -267,7 +267,7 @@
         <entry key="meld3" value="1.0.2" />
         <entry key="memory_profiler" value="0.41" />
         <entry key="menuinst" value="1.4.1" />
-        <entry key="mercurial" value="3.9" />
+        <entry key="mercurial" value="3.9.1" />
         <entry key="meta" value="0.4.2.dev" />
         <entry key="mingw" value="4.7" />
         <entry key="mistune" value="0.7.3" />
@@ -316,7 +316,7 @@
         <entry key="numpydoc" value="0.6.0" />
         <entry key="odo" value="0.5.0" />
         <entry key="openpyxl" value="2.3.2" />
-        <entry key="openssl" value="1.0.2h" />
+        <entry key="openssl" value="1.0.2i" />
         <entry key="oracle-instantclient" value="11.2.0.4.0" />
         <entry key="orange" value="2.7.8" />
         <entry key="orange-app" value="1.0.1" />
@@ -460,7 +460,7 @@
         <entry key="sockjs-tornado" value="1.0.3" />
         <entry key="sphinx" value="1.4.6" />
         <entry key="sphinx_rtd_theme" value="0.1.9" />
-        <entry key="spyder" value="2.3.9" />
+        <entry key="spyder" value="3.0.0" />
         <entry key="spyder-app" value="2.3.8" />
         <entry key="sqlalchemy" value="1.0.13" />
         <entry key="sqlite" value="3.13.0" />
@@ -1584,6 +1584,7 @@
               <option value="4.1.12" />
               <option value="4.2.7" />
               <option value="4.2.6" />
+              <option value="4.2.8" />
             </list>
           </value>
         </entry>
@@ -3524,6 +3525,7 @@
               <option value="3.8.2" />
               <option value="3.8.4" />
               <option value="3.9" />
+              <option value="3.9.1" />
             </list>
           </value>
         </entry>
@@ -4075,6 +4077,7 @@
               <option value="1.0.1j" />
               <option value="1.0.2g" />
               <option value="1.0.1g" />
+              <option value="1.0.2i" />
             </list>
           </value>
         </entry>
@@ -5606,6 +5609,7 @@
               <option value="2.3.3" />
               <option value="2.3.0" />
               <option value="2.2.5" />
+              <option value="3.0.0" />
             </list>
           </value>
         </entry>
@@ -6416,6 +6420,6 @@
         <option value="https://repo.continuum.io/pkgs/pro/win-64/" />
       </set>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1474548406102" />
+    <option name="LAST_TIME_CHECKED" value="1474979964178" />
   </component>
 </application>
