@@ -1,7 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.pyc;.pyo;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern="pair1" type="PLAIN_TEXT" />
       <mapping pattern="f" type="PLAIN_TEXT" />
       <mapping pattern="new trial" type="Python" />
     </extensionMap>
