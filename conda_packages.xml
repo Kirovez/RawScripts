@@ -96,7 +96,7 @@
         <entry key="console_shortcut" value="0.1.1" />
         <entry key="constructor" value="1.4.0" />
         <entry key="contextlib2" value="0.5.3" />
-        <entry key="continuum-docs" value="2.0.1" />
+        <entry key="continuum-docs" value="2.0.0" />
         <entry key="cookies" value="2.2.1" />
         <entry key="cornice" value="1.2.1" />
         <entry key="coverage" value="4.2" />
@@ -121,7 +121,7 @@
         <entry key="decorator" value="4.0.10" />
         <entry key="dill" value="0.2.5" />
         <entry key="distribute" value="0.6.45" />
-        <entry key="distributed" value="1.13.3" />
+        <entry key="distributed" value="1.13.2" />
         <entry key="django" value="1.10.2" />
         <entry key="dnspython" value="1.14.0" />
         <entry key="docopt" value="0.6.2" />
@@ -245,7 +245,7 @@
         <entry key="libtiff" value="4.0.6" />
         <entry key="line_profiler" value="1.1" />
         <entry key="llvm" value="3.3" />
-        <entry key="llvmlite" value="0.14.0" />
+        <entry key="llvmlite" value="0.13.0" />
         <entry key="llvmmath" value="0.1.2" />
         <entry key="llvmpy" value="0.12.7" />
         <entry key="locket" value="0.2.0" />
@@ -286,7 +286,7 @@
         <entry key="msvc_runtime" value="1.0.1" />
         <entry key="mtq" value="0.7.0" />
         <entry key="multimethods" value="1.0.0" />
-        <entry key="multipledispatch" value="0.4.9" />
+        <entry key="multipledispatch" value="0.4.8" />
         <entry key="munch" value="2.0.4" />
         <entry key="mysql-connector-python" value="2.0.4" />
         <entry key="mysql-python" value="1.2.5" />
@@ -310,7 +310,7 @@
         <entry key="nose-parameterized" value="0.5.0" />
         <entry key="notebook" value="4.2.3" />
         <entry key="nsis" value="3.0" />
-        <entry key="numba" value="0.29.0" />
+        <entry key="numba" value="0.28.1" />
         <entry key="numbapro" value="0.23.1" />
         <entry key="numbapro_cudalib" value="0.2" />
         <entry key="numexpr" value="2.6.1" />
@@ -356,7 +356,6 @@
         <entry key="pkgconfig" value="1.1.0" />
         <entry key="pkginfo" value="1.3.2" />
         <entry key="plac" value="0.9.6" />
-        <entry key="plotly" value="1.12.9" />
         <entry key="ply" value="3.9" />
         <entry key="postgresql" value="9.5.4" />
         <entry key="progressbar" value="2.3" />
@@ -418,7 +417,7 @@
         <entry key="pywget" value="2.2" />
         <entry key="pywin32" value="220" />
         <entry key="pyyaml" value="3.12" />
-        <entry key="pyzmq" value="16.0.0" />
+        <entry key="pyzmq" value="15.4.0" />
         <entry key="qgrid" value="0.3.2" />
         <entry key="qt" value="5.6.0" />
         <entry key="qtawesome" value="0.3.3" />
@@ -467,7 +466,7 @@
         <entry key="sphinx_rtd_theme" value="0.1.9" />
         <entry key="spyder" value="3.0.0" />
         <entry key="spyder-app" value="2.3.8" />
-        <entry key="sqlalchemy" value="1.1.1" />
+        <entry key="sqlalchemy" value="1.1.0" />
         <entry key="sqlite" value="3.13.0" />
         <entry key="sqlparse" value="0.1.19" />
         <entry key="ssh" value="1.8.0" />
@@ -1197,8 +1196,8 @@
               <option value="1.4.26" />
               <option value="1.4.28" />
               <option value="1.4.37" />
-              <option value="1.4.58" />
               <option value="1.4.52" />
+              <option value="1.4.58" />
             </list>
           </value>
         </entry>
@@ -1597,10 +1596,10 @@
               <option value="4.1.9" />
               <option value="4.1.11" />
               <option value="4.1.12" />
-              <option value="4.2.8" />
               <option value="4.2.7" />
-              <option value="4.2.9" />
               <option value="4.2.6" />
+              <option value="4.2.8" />
+              <option value="4.2.9" />
             </list>
           </value>
         </entry>
@@ -1674,8 +1673,8 @@
               <option value="2.0.0" />
               <option value="2.0.2" />
               <option value="2.0.5" />
-              <option value="2.0.4" />
               <option value="2.0.6" />
+              <option value="2.0.4" />
               <option value="2.0.3" />
             </list>
           </value>
@@ -1773,8 +1772,8 @@
               <option value="1.3.1" />
               <option value="1.3.2" />
               <option value="1.3.3" />
-              <option value="1.4.0" />
               <option value="1.3.4" />
+              <option value="1.4.0" />
             </list>
           </value>
         </entry>
@@ -1790,7 +1789,6 @@
           <value>
             <list>
               <option value="2.0.0" />
-              <option value="2.0.1" />
             </list>
           </value>
         </entry>
@@ -2093,9 +2091,8 @@
               <option value="1.11.3" />
               <option value="1.12.0" />
               <option value="1.12.1" />
-              <option value="1.13.2" />
               <option value="1.12.2" />
-              <option value="1.13.3" />
+              <option value="1.13.2" />
             </list>
           </value>
         </entry>
@@ -3299,7 +3296,6 @@
               <option value="0.11.0" />
               <option value="0.12.1" />
               <option value="0.13.0" />
-              <option value="0.14.0" />
             </list>
           </value>
         </entry>
@@ -3566,8 +3562,8 @@
               <option value="3.8.2" />
               <option value="3.8.4" />
               <option value="3.9" />
-              <option value="3.9.2" />
               <option value="3.9.1" />
+              <option value="3.9.2" />
             </list>
           </value>
         </entry>
@@ -3722,7 +3718,6 @@
               <option value="0.4.0" />
               <option value="0.4.3" />
               <option value="0.4.8" />
-              <option value="0.4.9" />
             </list>
           </value>
         </entry>
@@ -3988,7 +3983,6 @@
               <option value="0.26.0" />
               <option value="0.27.0" />
               <option value="0.28.1" />
-              <option value="0.29.0" />
             </list>
           </value>
         </entry>
@@ -4499,13 +4493,6 @@
             <list>
               <option value="0.9.1" />
               <option value="0.9.6" />
-            </list>
-          </value>
-        </entry>
-        <entry key="plotly">
-          <value>
-            <list>
-              <option value="1.12.9" />
             </list>
           </value>
         </entry>
@@ -5158,7 +5145,6 @@
               <option value="14.1.0" />
               <option value="15.3.0" />
               <option value="15.4.0" />
-              <option value="16.0.0" />
             </list>
           </value>
         </entry>
@@ -5353,9 +5339,9 @@
         <entry key="s3transfer">
           <value>
             <list>
-              <option value="0.1.7" />
-              <option value="0.1.5" />
               <option value="0.1.6" />
+              <option value="0.1.5" />
+              <option value="0.1.7" />
             </list>
           </value>
         </entry>
@@ -5748,7 +5734,6 @@
               <option value="1.0.12" />
               <option value="0.9.7" />
               <option value="1.0.13" />
-              <option value="1.1.1" />
               <option value="1.1.0" />
             </list>
           </value>
@@ -5947,8 +5932,8 @@
               <option value="4.0.0" />
               <option value="4.1.0" />
               <option value="4.2.2" />
-              <option value="4.3.1" />
               <option value="4.3.0" />
+              <option value="4.3.1" />
             </list>
           </value>
         </entry>
@@ -6406,8 +6391,8 @@
               <option value="0.7.2" />
               <option value="0.9.0" />
               <option value="0.9.2" />
-              <option value="0.10.0" />
               <option value="0.9.3" />
+              <option value="0.10.0" />
             </list>
           </value>
         </entry>
@@ -6526,6 +6511,6 @@
         <option value="https://repo.continuum.io/pkgs/pro/win-64/" />
       </set>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1476882609413" />
+    <option name="LAST_TIME_CHECKED" value="1476629167253" />
   </component>
 </application>
