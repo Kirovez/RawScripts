@@ -1,11 +1,4 @@
 <scheme name="WarmNeon copy" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2016-10-19T16:21:45</property>
-    <property name="ide">PyCharmCore</property>
-    <property name="ideVersion">2016.2.1.0.0</property>
-    <property name="modified">2016-10-19T16:36:04</property>
-    <property name="originalScheme">WarmNeon</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -23,14 +16,14 @@
     <option name="INDENT_GUIDE" value="505050" />
     <option name="LEFT_GUTTER_BACKGROUND" value="8a8a8a" />
     <option name="LINE_NUMBERS_COLOR" value="6da0a1" />
-    <option name="METHOD_SEPARATORS_COLOR" value="b8212c" />
+    <option name="METHOD_SEPARATORS_COLOR" value="ff2935" />
     <option name="MODIFIED_LINES_COLOR" value="522a2a" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="374037" />
     <option name="RIGHT_MARGIN_COLOR" value="6b6b6b" />
     <option name="SELECTED_FOLDING_TREE_COLOR" value="32be33" />
     <option name="SELECTED_INDENT_GUIDE" value="6b5656" />
     <option name="SELECTION_BACKGROUND" value="348d34" />
-    <option name="TEARLINE_COLOR" value="404040" />
+    <option name="TEARLINE_COLOR" value="555555" />
     <option name="WHITESPACES" value="656565" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="6e5a5a" />
   </colors>
@@ -569,7 +562,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="46464d" />
+        <option name="BACKGROUND" value="405dec" />
         <option name="ERROR_STRIPE_COLOR" value="ccccff" />
       </value>
     </option>
@@ -834,7 +827,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="495f2a" />
+        <option name="BACKGROUND" value="b3b325" />
       </value>
     </option>
     <option name="METHOD_CALL_ATTRIBUTES">
@@ -890,7 +883,7 @@
     </option>
     <option name="PY.BUILTIN_NAME">
       <value>
-        <option name="FOREGROUND" value="cccc" />
+        <option name="FOREGROUND" value="65fb1b" />
       </value>
     </option>
     <option name="PY.CLASS_DEFINITION">
@@ -923,8 +916,13 @@
     </option>
     <option name="PY.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="cc9900" />
+        <option name="FOREGROUND" value="fcc000" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="ffa832" />
       </value>
     </option>
     <option name="PY.LINE_COMMENT">
@@ -945,6 +943,7 @@
     </option>
     <option name="PY.PARENTHS">
       <value>
+        <option name="FOREGROUND" value="9e1de6" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -973,7 +972,7 @@
     </option>
     <option name="PY.STRING.U">
       <value>
-        <option name="FOREGROUND" value="b580" />
+        <option name="FOREGROUND" value="4efa18" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
