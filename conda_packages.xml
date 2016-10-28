@@ -110,7 +110,7 @@
         <entry key="cvxcanon" value="0.0.23.3" />
         <entry key="cx_oracle" value="5.2" />
         <entry key="cycler" value="0.10.0" />
-        <entry key="cython" value="0.25" />
+        <entry key="cython" value="0.25.1" />
         <entry key="cytoolz" value="0.8.0" />
         <entry key="dask" value="0.11.1" />
         <entry key="datashader" value="0.4.0" />
@@ -403,7 +403,7 @@
         <entry key="pysal" value="1.12.0" />
         <entry key="pyserial" value="2.7" />
         <entry key="pyside" value="1.2.1" />
-        <entry key="pytables" value="3.2.2" />
+        <entry key="pytables" value="3.3.0" />
         <entry key="pytest" value="3.0.3" />
         <entry key="pytest-cache" value="1.0" />
         <entry key="pytest-cov" value="2.3.1" />
@@ -1959,6 +1959,7 @@
               <option value="0.19" />
               <option value="0.24.1" />
               <option value="0.25" />
+              <option value="0.25.1" />
             </list>
           </value>
         </entry>
@@ -4983,6 +4984,7 @@
               <option value="3.1.1" />
               <option value="3.0.0" />
               <option value="3.2.0" />
+              <option value="3.3.0" />
             </list>
           </value>
         </entry>
@@ -6548,6 +6550,6 @@
         <option value="https://repo.continuum.io/pkgs/pro/win-64/" />
       </set>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1477556386130" />
+    <option name="LAST_TIME_CHECKED" value="1477647513336" />
   </component>
 </application>
