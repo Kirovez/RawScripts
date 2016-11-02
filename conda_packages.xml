@@ -83,7 +83,7 @@
         <entry key="colander" value="1.2" />
         <entry key="colorama" value="0.3.7" />
         <entry key="comtypes" value="1.1.2" />
-        <entry key="conda" value="4.2.11" />
+        <entry key="conda" value="4.2.12" />
         <entry key="conda-api" value="1.1.0" />
         <entry key="conda-build" value="2.0.7" />
         <entry key="conda-env" value="2.6.0" />
@@ -94,6 +94,7 @@
         <entry key="configobj" value="5.0.6" />
         <entry key="configparser" value="3.5.0" />
         <entry key="console_shortcut" value="0.1.1" />
+        <entry key="constantly" value="15.1.0" />
         <entry key="constructor" value="1.4.2" />
         <entry key="contextlib2" value="0.5.3" />
         <entry key="continuum-docs" value="2.0.1" />
@@ -170,7 +171,7 @@
         <entry key="gevent_zeromq" value="0.2.5" />
         <entry key="git" value="2.9.3" />
         <entry key="git_windows" value="2.6.1" />
-        <entry key="glueviz" value="0.8.2" />
+        <entry key="glueviz" value="0.9.1" />
         <entry key="gnuwin32" value="2015.08.18" />
         <entry key="googlecl" value="0.9.12" />
         <entry key="grako" value="3.10.0" />
@@ -191,6 +192,7 @@
         <entry key="imagesize" value="0.7.1" />
         <entry key="imaging" value="1.1.7" />
         <entry key="impyla" value="0.13.8" />
+        <entry key="incremental" value="16.10.1" />
         <entry key="inflection" value="0.3.1" />
         <entry key="into" value="0.2.2" />
         <entry key="iopro" value="1.9.0" />
@@ -494,7 +496,7 @@
         <entry key="transaction" value="1.6.1" />
         <entry key="translationstring" value="1.3" />
         <entry key="trollius" value="2.1" />
-        <entry key="twisted" value="16.4.1" />
+        <entry key="twisted" value="16.5.0" />
         <entry key="ujson" value="1.35" />
         <entry key="unicodecsv" value="0.14.1" />
         <entry key="unidecode" value="0.4.17" />
@@ -1608,6 +1610,7 @@
               <option value="4.2.8" />
               <option value="4.2.9" />
               <option value="4.2.11" />
+              <option value="4.2.12" />
             </list>
           </value>
         </entry>
@@ -1767,6 +1770,13 @@
             <list>
               <option value="0.1.1" />
               <option value="0.1.0" />
+            </list>
+          </value>
+        </entry>
+        <entry key="constantly">
+          <value>
+            <list>
+              <option value="15.1.0" />
             </list>
           </value>
         </entry>
@@ -2573,6 +2583,7 @@
               <option value="0.7.1" />
               <option value="0.4.0" />
               <option value="0.8.2" />
+              <option value="0.9.1" />
             </list>
           </value>
         </entry>
@@ -2743,6 +2754,13 @@
           <value>
             <list>
               <option value="0.13.8" />
+            </list>
+          </value>
+        </entry>
+        <entry key="incremental">
+          <value>
+            <list>
+              <option value="16.10.1" />
             </list>
           </value>
         </entry>
@@ -6046,6 +6064,7 @@
               <option value="16.3.1" />
               <option value="16.4.0" />
               <option value="16.4.1" />
+              <option value="16.5.0" />
             </list>
           </value>
         </entry>
@@ -6552,6 +6571,6 @@
         <option value="https://repo.continuum.io/pkgs/pro/win-64/" />
       </set>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1477916166923" />
+    <option name="LAST_TIME_CHECKED" value="1478125360039" />
   </component>
 </application>
