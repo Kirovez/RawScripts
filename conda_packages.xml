@@ -112,7 +112,7 @@
         <entry key="cvxcanon" value="0.0.23.3" />
         <entry key="cx_oracle" value="5.2" />
         <entry key="cycler" value="0.10.0" />
-        <entry key="cython" value="0.25.1" />
+        <entry key="cython" value="0.25.2" />
         <entry key="cytoolz" value="0.8.1" />
         <entry key="dask" value="0.12.0" />
         <entry key="datashader" value="0.4.0" />
@@ -2012,6 +2012,7 @@
               <option value="0.24.1" />
               <option value="0.25" />
               <option value="0.25.1" />
+              <option value="0.25.2" />
             </list>
           </value>
         </entry>
@@ -6702,6 +6703,6 @@
         <option value="https://repo.continuum.io/pkgs/pro/win-64/" />
       </set>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1481242854022" />
+    <option name="LAST_TIME_CHECKED" value="1481403190698" />
   </component>
 </application>
